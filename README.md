@@ -7,8 +7,10 @@ Decentralized hosting using SkyNet. Created for Gitcoin Hackathon.
 
 Tasks Description
 Create or fork a DeFi tool and host the front-end on Skynet - Done in https://50097ctdsh1lpr632vhevltesqgbthkr23usivfuee4nrs42nv6cef0.siasky.net/
-Use the Deploy to Skynet Github action for building and deploying your frontend automatically - Done
 Adding a working "Save to Homescreen" link in the Github repo - Done
+
+![image](https://user-images.githubusercontent.com/24447702/132566964-eb6a88bf-26ad-4905-a958-c1b6e137e763.png)
+
 
 Mooniswap is next generation AMM (Automated Market Maker) protocol.
 
